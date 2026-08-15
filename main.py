@@ -424,7 +424,7 @@ def main():
     stats = load_stats()
 
     print("=" * 45)
-    print("Игра «Угадай число» с сохранением и статистикой")
+    print("Игра «Угадай число»")
     print("=" * 45)
 
     while True:
